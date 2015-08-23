@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tea Counter</string>
+
+    <string name="textview"> Do not forget to update your tea count!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Update The TextView</string>
+    <string name="hint">Amita</string>
+</resources>
+
+
